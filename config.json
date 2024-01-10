@@ -1,0 +1,13 @@
+{
+    "topic": "123456789/#",
+    "username": "XXXXXXXXX",
+    "password": "XXXXXXXX",
+    "host": "omnipresense.net",
+    "port": 1883,
+    "log_filename": "speed",
+    "token": "INSERT_TOKEN_HERE",
+    "influx_bucket": "metrics",
+    "influx_org": "monitoring",
+    "influx_host": "localhost"
+  }
+  
